@@ -4,7 +4,7 @@ Katharina Breininger
 
 27.07.2023
 
-<img src="/dropout_graphic.png" alt="Dropout for NNs" width="400"/>
+<img src="/img/dropout_graphic.png" alt="Dropout for NNs" width="400"/>
 
 ## Materials and further reading
 * [Lecture Slides](/Dropout-Regularization.pdf)
