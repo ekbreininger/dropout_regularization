@@ -7,7 +7,7 @@ Katharina Breininger
 <img src="https://github.com/ekbreininger/dropout_regularization/blob/main/Dropout.png" alt="Dropout for NNs" width="400"/>
 
 ## Materials and further reading
-* [Lecture Slides]()
+* [Lecture Slides](/Dropout-Regularization.pdf)
 * [Chapter 7: Regularization for Deep Learning](https://www.deeplearningbook.org/contents/regularization.html) (Goodfellow, Bengio, Courville: Deep Learning, MIT Press, 2016)
 * [3.2 Bias-Variance Decomposition](https://dl.acm.org/doi/10.5555/1162264) (Bishop: Pattern Recognition & Machine Learning, Springer, 2006, p. 147ff)
 * Video explanation by Andrew Ng - DeepLearningAI - [Part 1](https://www.youtube.com/watch?v=D8PJAL-MZv8) and [Part 2](https://www.youtube.com/watch?v=ARq74QuavAo)
