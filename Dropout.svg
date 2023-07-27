@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="998"
+   height="658"
+   overflow="hidden"
+   version="1.1"
+   id="svg208"
+   sodipodi:docname="Dropout.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs212" />
+  <sodipodi:namedview
+     id="namedview210"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.88203125"
+     inkscape:cx="499.41541"
+     inkscape:cy="329.35341"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg208"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <path
+     d="M 225.094,46 90,251.521"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path8" />
+  <path
+     d="M 225.094,187 90,251.2536"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path10" />
+  <path
+     d="M 225.094,46 90,392.577"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path12" />
+  <path
+     d="M 225.094,187 90,392.309"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path14" />
+  <path
+     d="M 225.094,470.282 90,252"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path16" />
+  <path
+     d="M 225.094,470.227 90,393"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path18" />
+  <path
+     d="M 225.094,611.551 90,252"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path20" />
+  <path
+     d="M 225.094,611.495 90,393"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path22" />
+  <path
+     d="M 315,187.268 455.365,46"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path24" />
+  <path
+     d="M 315,469.804 455.365,46"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path26" />
+  <path
+     d="M 315,611.072 455.365,46"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path28" />
+  <path
+     d="m 315,46 140.365,1e-4"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path30" />
+  <path
+     d="M 225.094,329 90,393.0408"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path32" />
+  <path
+     d="M 225.094,329.015 90,252"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path34" />
+  <path
+     d="M 315,328.536 455.365,46"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path36" />
+  <path
+     d="M 225.094,46 90,534.057"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path38" />
+  <path
+     d="M 225.094,187 90,533.79"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path40" />
+  <path
+     d="M 225.094,470 90,534.2536"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path42" />
+  <path
+     d="M 225.094,611.015 90,534"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path44" />
+  <path
+     d="M 225.094,329 90,534.521"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path46" />
+  <path
+     d="M 225.094,46 90,122.3031"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path48" />
+  <path
+     d="M 225.094,186.965 90,122"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path50" />
+  <path
+     d="M 225.094,610.769 90,122"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path52" />
+  <path
+     d="M 225.094,469.501 90,122"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path54" />
+  <path
+     d="M 225.094,328.233 90,122"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path56" />
+  <path
+     d="m 315,187.601 140.365,-0.60126"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path58" />
+  <path
+     d="M 315,470.137 455.365,187"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path60" />
+  <path
+     d="M 315,611.406 455.365,187"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path62" />
+  <path
+     d="M 315,46 455.365,186.666"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path64" />
+  <path
+     d="M 315,328.87 455.365,187.001"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path66" />
+  <path
+     d="M 315,187 455.365,326.967"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path68" />
+  <path
+     d="M 315,469.569 455.365,327"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path70" />
+  <path
+     d="m 315,328.301 140.365,-1.30121"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path72" />
+  <path
+     d="M 315,46 455.365,327.235"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path74" />
+  <path
+     d="M 315,610.837 455.365,327"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path76" />
+  <path
+     d="M 315,187 455.365,470.837"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path78" />
+  <path
+     d="m 315,470 140.365,1.301"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path80" />
+  <path
+     d="M 315,610.967 455.365,471"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path82" />
+  <path
+     d="M 315,46 455.365,471.105"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path84" />
+  <path
+     d="M 315,329 455.365,471.569"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path86" />
+  <path
+     d="M 315,187 455.365,610.104"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path88" />
+  <path
+     d="M 315,470 455.365,610.568"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path90" />
+  <path
+     d="m 315,610.7 140.365,-0.69984"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path92" />
+  <path
+     d="M 315,46 455.365,610.372"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path94" />
+  <path
+     d="M 315,329 455.365,610.836"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path96" />
+  <path
+     d="M 545,186.666 685.365,46"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path98" />
+  <path
+     d="M 545,471.105 685.365,46"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path100" />
+  <path
+     d="M 545,610.372 685.365,46"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path102" />
+  <path
+     d="m 545,46 140.365,1e-4"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path104" />
+  <path
+     d="M 545,327.235 685.365,46"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path106" />
+  <path
+     d="M 545,326.733 685.365,187"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path108" />
+  <path
+     d="M 545,609.87 685.365,187"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path110" />
+  <path
+     d="M 545,46 685.365,187.502"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path112" />
+  <path
+     d="m 545,187 140.365,0.835"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path114" />
+  <path
+     d="M 545,470.603 685.365,187"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path116" />
+  <path
+     d="M 545,187 685.365,329.338"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path118" />
+  <path
+     d="M 545,471.101 685.365,329"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path120" />
+  <path
+     d="M 545,610.368 685.365,329"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path122" />
+  <path
+     d="M 545,46 685.365,329.004"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path124" />
+  <path
+     d="m 545,327 140.365,1.769"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path126" />
+  <path
+     d="M 545,187 685.365,470.839"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path128" />
+  <path
+     d="m 545,471.599 140.365,-0.59895"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path130" />
+  <path
+     d="M 545,610.866 685.365,471"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path132" />
+  <path
+     d="M 545,46 685.365,470.506"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path134" />
+  <path
+     d="M 545,327 685.365,470.271"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path136" />
+  <path
+     d="m 545,610 140.365,1.635"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path138" />
+  <path
+     d="M 545,327 685.365,611.773"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path140" />
+  <path
+     d="M 545,187 685.365,612.341"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path142" />
+  <path
+     d="M 545,46 685.365,612.008"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path144" />
+  <path
+     d="M 545,471 685.365,611.903"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path146" />
+  <path
+     d="M 774,611.877 907.323,328"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path148" />
+  <path
+     d="m 774,328.873 133.323,-0.87307"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path150" />
+  <path
+     d="M 774,187 907.32,327.629"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path152" />
+  <path
+     d="M 774,46 907.32,328.131"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path154" />
+  <path
+     d="M 774,470.375 907.323,328"
+     stroke="#afabab"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path156" />
+  <path
+     d="m 908,328 c 0,-24.853 19.92,-45 44.5,-45 24.58,0 44.5,20.147 44.5,45 0,24.853 -19.92,45 -44.5,45 -24.58,0 -44.5,-20.147 -44.5,-45 z"
+     stroke="#3b3838"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="#8faadc"
+     fill-rule="evenodd"
+     id="path158" />
+  <path
+     d="M 685,46 C 685,21.1472 704.923,1 729.5,1 754.077,1 774,21.1472 774,46 774,70.853 754.077,91 729.5,91 704.923,91 685,70.853 685,46 Z"
+     stroke="#3b3838"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="#8faadc"
+     fill-rule="evenodd"
+     id="path160" />
+  <path
+     d="m 685,187.5 c 0,-24.577 19.923,-44.5 44.5,-44.5 24.577,0 44.5,19.923 44.5,44.5 0,24.577 -19.923,44.5 -44.5,44.5 -24.577,0 -44.5,-19.923 -44.5,-44.5 z"
+     stroke="#3b3838"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="#8faadc"
+     fill-rule="evenodd"
+     id="path162" />
+  <path
+     d="m 685,329 c 0,-24.853 19.923,-45 44.5,-45 24.577,0 44.5,20.147 44.5,45 0,24.853 -19.923,45 -44.5,45 -24.577,0 -44.5,-20.147 -44.5,-45 z"
+     stroke="#3b3838"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="#8faadc"
+     fill-rule="evenodd"
+     id="path164" />
+  <path
+     d="m 685,470.5 c 0,-24.577 19.923,-44.5 44.5,-44.5 24.577,0 44.5,19.923 44.5,44.5 0,24.577 -19.923,44.5 -44.5,44.5 -24.577,0 -44.5,-19.923 -44.5,-44.5 z"
+     stroke="#3b3838"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="#8faadc"
+     fill-rule="evenodd"
+     id="path166" />
+  <path
+     d="m 685,612 c 0,-24.853 19.923,-45 44.5,-45 24.577,0 44.5,20.147 44.5,45 0,24.853 -19.923,45 -44.5,45 -24.577,0 -44.5,-20.147 -44.5,-45 z"
+     stroke="#3b3838"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="#8faadc"
+     fill-rule="evenodd"
+     id="path168" />
+  <path
+     d="m 455,46 c 0,-24.8528 20.147,-45 45,-45 24.853,0 45,20.1472 45,45 0,24.853 -20.147,45 -45,45 -24.853,0 -45,-20.147 -45,-45 z"
+     stroke="#3b3838"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="#8faadc"
+     fill-rule="evenodd"
+     id="path170" />
+  <path
+     d="m 455,186.5 c 0,-24.577 20.147,-44.5 45,-44.5 24.853,0 45,19.923 45,44.5 0,24.577 -20.147,44.5 -45,44.5 -24.853,0 -45,-19.923 -45,-44.5 z"
+     stroke="#3b3838"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="#8faadc"
+     fill-rule="evenodd"
+     id="path172" />
+  <path
+     d="m 455,327 c 0,-24.853 20.147,-45 45,-45 24.853,0 45,20.147 45,45 0,24.853 -20.147,45 -45,45 -24.853,0 -45,-20.147 -45,-45 z"
+     stroke="#3b3838"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="#8faadc"
+     fill-rule="evenodd"
+     id="path174" />
+  <path
+     d="m 455,471 c 0,-24.853 20.147,-45 45,-45 24.853,0 45,20.147 45,45 0,24.853 -20.147,45 -45,45 -24.853,0 -45,-20.147 -45,-45 z"
+     stroke="#3b3838"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="#8faadc"
+     fill-rule="evenodd"
+     id="path176" />
+  <path
+     d="m 455,610.5 c 0,-24.577 20.147,-44.5 45,-44.5 24.853,0 45,19.923 45,44.5 0,24.577 -20.147,44.5 -45,44.5 -24.853,0 -45,-19.923 -45,-44.5 z"
+     stroke="#3b3838"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="#8faadc"
+     fill-rule="evenodd"
+     id="path178" />
+  <path
+     d="M 315,46 C 315,21.1472 294.8528,1 270,1 c -24.8528,0 -45,20.1472 -45,45 0,24.8528 20.1472,45 45,45 24.8528,0 45,-20.1472 45,-45 z"
+     stroke="#3b3838"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="#8faadc"
+     fill-rule="evenodd"
+     id="path180" />
+  <path
+     d="m 315,187.5 c 0,-24.5767 -20.1472,-44.5 -45,-44.5 -24.8528,0 -45,19.9233 -45,44.5 0,24.5767 20.1472,44.5 45,44.5 24.8528,0 45,-19.9233 45,-44.5 z"
+     stroke="#3b3838"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="#8faadc"
+     fill-rule="evenodd"
+     id="path182" />
+  <path
+     d="m 315,470 c 0,-24.8528 -20.1472,-45 -45,-45 -24.8528,0 -45,20.1472 -45,45 0,24.8528 20.1472,45 45,45 24.8528,0 45,-20.1472 45,-45 z"
+     stroke="#3b3838"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="#8faadc"
+     fill-rule="evenodd"
+     id="path184" />
+  <path
+     d="m 315,611 c 0,-24.8528 -20.1472,-45 -45,-45 -24.8528,0 -45,20.1472 -45,45 0,24.8528 20.1472,45 45,45 24.8528,0 45,-20.1472 45,-45 z"
+     stroke="#3b3838"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="#8faadc"
+     fill-rule="evenodd"
+     id="path186" />
+  <path
+     d="m 315,328.5 c 0,-24.5767 -20.1472,-44.5 -45,-44.5 -24.8528,0 -45,19.9233 -45,44.5 0,24.5767 20.1472,44.5 45,44.5 24.8528,0 45,-19.9233 45,-44.5 z"
+     stroke="#3b3838"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="#8faadc"
+     fill-rule="evenodd"
+     id="path188" />
+  <path
+     d="M 90,251.5 C 90,226.9233 70.0767,207 45.5,207 20.9233,207 1,226.9233 1,251.5 1,276.0767 20.9233,296 45.5,296 70.0767,296 90,276.0767 90,251.5 Z"
+     stroke="#3b3838"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="#8faadc"
+     fill-rule="evenodd"
+     id="path190" />
+  <path
+     d="M 90,392.5 C 90,367.9233 70.0767,348 45.5,348 20.9233,348 1,367.9233 1,392.5 1,417.0767 20.9233,437 45.5,437 70.0767,437 90,417.0767 90,392.5 Z"
+     stroke="#3b3838"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="#8faadc"
+     fill-rule="evenodd"
+     id="path192" />
+  <path
+     d="M 90,534 C 90,509.1472 70.0767,489 45.5,489 20.9233,489 1,509.1472 1,534 1,558.8528 20.9233,579 45.5,579 70.0767,579 90,558.8528 90,534 Z"
+     stroke="#3b3838"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="#8faadc"
+     fill-rule="evenodd"
+     id="path194" />
+  <path
+     d="M 90,122.5 C 90,97.9233 70.0767,78 45.5,78 20.9233,78 1,97.9233 1,122.5 1,147.0767 20.9233,167 45.5,167 70.0767,167 90,147.0767 90,122.5 Z"
+     stroke="#3b3838"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="#8faadc"
+     fill-rule="evenodd"
+     id="path196" />
+  <path
+     d="m 236.873,284.701 33.183,33.183 33.183,-33.183 15.706,15.705 -33.183,33.183 33.183,33.183 -15.706,15.705 -33.183,-33.183 -33.183,33.183 -15.705,-15.705 33.183,-33.183 -33.183,-33.183 z"
+     stroke="#3b3838"
+     stroke-width="1.33333"
+     stroke-miterlimit="8"
+     fill="#ff0000"
+     fill-rule="evenodd"
+     id="path198" />
+  <path
+     d="m 469.103,424.95 33.183,33.183 33.183,-33.183 15.705,15.705 -33.183,33.183 33.183,33.183 -15.705,15.705 -33.183,-33.183 -33.183,33.183 -15.705,-15.705 33.183,-33.183 -33.183,-33.183 z"
+     stroke="#3b3838"
+     stroke-width="1.33333"
+     stroke-miterlimit="8"
+     fill="#ff0000"
+     fill-rule="evenodd"
+     id="path200" />
+  <path
+     d="m 700.239,141.818 33.183,33.183 33.183,-33.183 15.705,15.705 -33.183,33.183 33.183,33.183 -15.705,15.705 -33.183,-33.183 -33.183,33.183 -15.706,-15.705 33.183,-33.183 -33.183,-33.183 z"
+     stroke="#3b3838"
+     stroke-width="1.33333"
+     stroke-miterlimit="8"
+     fill="#ff0000"
+     fill-rule="evenodd"
+     id="path202" />
+  <path
+     d="m 694.644,422.213 33.183,33.183 33.183,-33.183 15.705,15.705 -33.183,33.183 33.183,33.183 -15.705,15.705 -33.183,-33.183 -33.183,33.183 -15.705,-15.705 33.183,-33.183 -33.183,-33.183 z"
+     stroke="#3b3838"
+     stroke-width="1.33333"
+     stroke-miterlimit="8"
+     fill="#ff0000"
+     fill-rule="evenodd"
+     id="path204" />
+</svg>
