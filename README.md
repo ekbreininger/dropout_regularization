@@ -4,7 +4,7 @@ Katharina Breininger
 
 27.07.2023
 
-<img src="/Dropout.svg?raw=true&sanitize=true" alt="Dropout for NNs" width="400"/>
+<img src="/Dropout.svg" alt="Dropout for NNs" width="400"/>
 
 ## Materials and further reading
 * [Lecture Slides]()
